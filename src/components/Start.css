@@ -1,0 +1,31 @@
+.start {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #293264;
+}
+
+.start h1 {
+  font-size: 5rem;
+}
+
+.start p {
+  font-size: 2rem;
+  margin: 30px 0;
+}
+
+.start button {
+  border: none;
+  height: 65px;
+  width: 200px;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: #4D5B9E;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+}
+
